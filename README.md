@@ -12,7 +12,9 @@ OrientDB terminal program written in GO
               Tools
               Terminal
         Windows: Just run orientdb-community-2.0.8/bin/server.bat
-  1.2 Type a password. The username will be "root"
+
+1.2 Type a password. The username will be "root"
+
 
 2. You have to have GO installed (https://golang.org)
 
