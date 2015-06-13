@@ -14,9 +14,9 @@ OrientDB terminal program written in GO
         Windows: Just run orientdb-community-2.0.8/bin/server.bat
   1.3. Type a password. The username will be "root"
 
-2. You have to have GO installed (https://golang.org)
+ 2. You have to have GO installed (https://golang.org)
 
-3. Start the program in a new terminal window with:
+ 3. Start the program in a new terminal window with:
     go run mainOrientDbClient.go
     (of course you have to be in the folder)
 
